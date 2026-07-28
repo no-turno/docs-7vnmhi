@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-fpb3ga.nuansa138.xyz/sitemap.xml
